@@ -4,4 +4,4 @@ def crazy_strings(a,b)
 a.reverse
 b.upcase
 end
-crazy_strings()
+puts crazy_strings(apple, banana)
