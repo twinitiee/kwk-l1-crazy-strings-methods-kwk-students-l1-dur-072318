@@ -1,7 +1,6 @@
 # write your method here
 
 def crazy_strings(a,b)
-puts a.reverse
-puts b.upcase
-
+a.reverse
+b.upcase
 end
